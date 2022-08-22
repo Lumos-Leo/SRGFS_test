@@ -1,0 +1,625 @@
+2022-08-14 02:36:49,345 - root - INFO - processed img-000001
+2022-08-14 02:36:49,346 - root - INFO - cost_time:36.632776 ms	psnr:32.791687 db	ssim:0.907208 	psnr_bic:30.873587 db	ssim_bic:0.871200 
+2022-08-14 02:36:50,884 - root - INFO - processed img-000002
+2022-08-14 02:36:50,884 - root - INFO - cost_time:35.832286 ms	psnr:32.853514 db	ssim:0.906804 	psnr_bic:30.921337 db	ssim_bic:0.870780 
+2022-08-14 02:36:52,496 - root - INFO - processed img-000003
+2022-08-14 02:36:52,497 - root - INFO - cost_time:35.584211 ms	psnr:32.925555 db	ssim:0.906619 	psnr_bic:30.978300 db	ssim_bic:0.870577 
+2022-08-14 02:36:54,088 - root - INFO - processed img-000004
+2022-08-14 02:36:54,089 - root - INFO - cost_time:35.514116 ms	psnr:32.996944 db	ssim:0.906504 	psnr_bic:31.035435 db	ssim_bic:0.870407 
+2022-08-14 02:36:55,603 - root - INFO - processed img-000005
+2022-08-14 02:36:55,603 - root - INFO - cost_time:35.439730 ms	psnr:33.065293 db	ssim:0.906388 	psnr_bic:31.091787 db	ssim_bic:0.870292 
+2022-08-14 02:36:57,245 - root - INFO - processed img-000006
+2022-08-14 02:36:57,246 - root - INFO - cost_time:35.567482 ms	psnr:33.131257 db	ssim:0.906468 	psnr_bic:31.145515 db	ssim_bic:0.870409 
+2022-08-14 02:36:58,872 - root - INFO - processed img-000007
+2022-08-14 02:36:58,873 - root - INFO - cost_time:35.515990 ms	psnr:33.157891 db	ssim:0.906374 	psnr_bic:31.167940 db	ssim_bic:0.870284 
+2022-08-14 02:37:00,520 - root - INFO - processed img-000008
+2022-08-14 02:37:00,521 - root - INFO - cost_time:35.483330 ms	psnr:33.143157 db	ssim:0.906008 	psnr_bic:31.155354 db	ssim_bic:0.869810 
+2022-08-14 02:37:02,027 - root - INFO - processed img-000009
+2022-08-14 02:37:02,028 - root - INFO - cost_time:35.461002 ms	psnr:33.097489 db	ssim:0.905335 	psnr_bic:31.116306 db	ssim_bic:0.868949 
+2022-08-14 03:07:47,452 - root - INFO - processed img-000001
+2022-08-14 03:07:47,453 - root - INFO - cost_time:18.441200 ms	psnr:25.847795 db	ssim:0.748017 	psnr_bic:23.929993 db	ssim_bic:0.699372 
+2022-08-14 03:07:48,122 - root - INFO - processed img-000002
+2022-08-14 03:07:48,123 - root - INFO - cost_time:17.755985 ms	psnr:25.859112 db	ssim:0.748283 	psnr_bic:23.940865 db	ssim_bic:0.699827 
+2022-08-14 03:07:48,794 - root - INFO - processed img-000003
+2022-08-14 03:07:48,794 - root - INFO - cost_time:17.311017 ms	psnr:25.876132 db	ssim:0.748571 	psnr_bic:23.953701 db	ssim_bic:0.700322 
+2022-08-14 03:07:49,423 - root - INFO - processed img-000004
+2022-08-14 03:07:49,423 - root - INFO - cost_time:17.006338 ms	psnr:25.867250 db	ssim:0.748422 	psnr_bic:23.952131 db	ssim_bic:0.700308 
+2022-08-14 03:07:50,028 - root - INFO - processed img-000005
+2022-08-14 03:07:50,028 - root - INFO - cost_time:16.889668 ms	psnr:25.851167 db	ssim:0.748212 	psnr_bic:23.943476 db	ssim_bic:0.700109 
+2022-08-14 03:07:50,630 - root - INFO - processed img-000006
+2022-08-14 03:07:50,630 - root - INFO - cost_time:16.841133 ms	psnr:25.838594 db	ssim:0.748066 	psnr_bic:23.934990 db	ssim_bic:0.699946 
+2022-08-14 03:07:51,251 - root - INFO - processed img-000007
+2022-08-14 03:07:51,251 - root - INFO - cost_time:16.770772 ms	psnr:25.828703 db	ssim:0.747925 	psnr_bic:23.927614 db	ssim_bic:0.699805 
+2022-08-14 03:07:51,861 - root - INFO - processed img-000008
+2022-08-14 03:07:51,862 - root - INFO - cost_time:16.733825 ms	psnr:25.823370 db	ssim:0.747834 	psnr_bic:23.924683 db	ssim_bic:0.699748 
+2022-08-14 03:07:52,478 - root - INFO - processed img-000009
+2022-08-14 03:07:52,478 - root - INFO - cost_time:16.701592 ms	psnr:25.826419 db	ssim:0.747899 	psnr_bic:23.926622 db	ssim_bic:0.699813 
+2022-08-14 03:07:53,099 - root - INFO - processed img-000010
+2022-08-14 03:07:53,100 - root - INFO - cost_time:16.673350 ms	psnr:25.834769 db	ssim:0.748054 	psnr_bic:23.931612 db	ssim_bic:0.699930 
+2022-08-14 03:07:53,726 - root - INFO - processed img-000011
+2022-08-14 03:07:53,727 - root - INFO - cost_time:16.657482 ms	psnr:25.842742 db	ssim:0.748199 	psnr_bic:23.935528 db	ssim_bic:0.700022 
+2022-08-14 03:07:54,353 - root - INFO - processed img-000012
+2022-08-14 03:07:54,353 - root - INFO - cost_time:16.642253 ms	psnr:25.845932 db	ssim:0.748252 	psnr_bic:23.937551 db	ssim_bic:0.700082 
+2022-08-14 03:07:54,956 - root - INFO - processed img-000013
+2022-08-14 03:07:54,956 - root - INFO - cost_time:16.627697 ms	psnr:25.845021 db	ssim:0.748260 	psnr_bic:23.937872 db	ssim_bic:0.700119 
+2022-08-14 03:07:55,558 - root - INFO - processed img-000014
+2022-08-14 03:07:55,559 - root - INFO - cost_time:16.619802 ms	psnr:25.841544 db	ssim:0.748200 	psnr_bic:23.935768 db	ssim_bic:0.700071 
+2022-08-14 03:07:56,184 - root - INFO - processed img-000015
+2022-08-14 03:07:56,185 - root - INFO - cost_time:16.603756 ms	psnr:25.838597 db	ssim:0.748186 	psnr_bic:23.933968 db	ssim_bic:0.700060 
+2022-08-14 03:07:56,847 - root - INFO - processed img-000016
+2022-08-14 03:07:56,847 - root - INFO - cost_time:16.606301 ms	psnr:25.838681 db	ssim:0.748189 	psnr_bic:23.934027 db	ssim_bic:0.700078 
+2022-08-14 03:07:57,486 - root - INFO - processed img-000017
+2022-08-14 03:07:57,487 - root - INFO - cost_time:16.598393 ms	psnr:25.844025 db	ssim:0.748318 	psnr_bic:23.937412 db	ssim_bic:0.700184 
+2022-08-14 03:08:13,497 - root - INFO - processed img-000001
+2022-08-14 03:08:13,498 - root - INFO - cost_time:16.963720 ms	psnr:12.366795 db	ssim:0.377618 	psnr_bic:12.225191 db	ssim_bic:0.275632 
+2022-08-14 03:08:14,175 - root - INFO - processed img-000002
+2022-08-14 03:08:14,175 - root - INFO - cost_time:16.762614 ms	psnr:12.366412 db	ssim:0.377521 	psnr_bic:12.226032 db	ssim_bic:0.275626 
+2022-08-14 03:08:14,879 - root - INFO - processed img-000003
+2022-08-14 03:08:14,879 - root - INFO - cost_time:16.666969 ms	psnr:12.367158 db	ssim:0.377553 	psnr_bic:12.226929 db	ssim_bic:0.275666 
+2022-08-14 03:08:15,517 - root - INFO - processed img-000004
+2022-08-14 03:08:15,518 - root - INFO - cost_time:16.632497 ms	psnr:12.366744 db	ssim:0.377464 	psnr_bic:12.227051 db	ssim_bic:0.275616 
+2022-08-14 03:08:16,115 - root - INFO - processed img-000005
+2022-08-14 03:08:16,115 - root - INFO - cost_time:16.602325 ms	psnr:12.365936 db	ssim:0.377359 	psnr_bic:12.226562 db	ssim_bic:0.275527 
+2022-08-14 03:08:16,730 - root - INFO - processed img-000006
+2022-08-14 03:08:16,730 - root - INFO - cost_time:16.600331 ms	psnr:12.365841 db	ssim:0.377256 	psnr_bic:12.226009 db	ssim_bic:0.275436 
+2022-08-14 03:08:17,354 - root - INFO - processed img-000007
+2022-08-14 03:08:17,355 - root - INFO - cost_time:16.584601 ms	psnr:12.365863 db	ssim:0.377179 	psnr_bic:12.225539 db	ssim_bic:0.275370 
+2022-08-14 03:08:17,974 - root - INFO - processed img-000008
+2022-08-14 03:08:17,974 - root - INFO - cost_time:16.562164 ms	psnr:12.366546 db	ssim:0.377178 	psnr_bic:12.225352 db	ssim_bic:0.275339 
+2022-08-14 03:08:18,614 - root - INFO - processed img-000009
+2022-08-14 03:08:18,614 - root - INFO - cost_time:16.559150 ms	psnr:12.367456 db	ssim:0.377222 	psnr_bic:12.225499 db	ssim_bic:0.275342 
+2022-08-14 03:08:19,226 - root - INFO - processed img-000010
+2022-08-14 03:08:19,226 - root - INFO - cost_time:16.762042 ms	psnr:12.367929 db	ssim:0.377268 	psnr_bic:12.225506 db	ssim_bic:0.275349 
+2022-08-14 03:08:19,824 - root - INFO - processed img-000011
+2022-08-14 03:08:19,824 - root - INFO - cost_time:16.733625 ms	psnr:12.368021 db	ssim:0.377303 	psnr_bic:12.225368 db	ssim_bic:0.275353 
+2022-08-14 03:09:24,553 - root - INFO - processed img-000001
+2022-08-14 03:09:24,554 - root - INFO - cost_time:18.225193 ms	psnr:25.847795 db	ssim:0.748017 	psnr_bic:23.929993 db	ssim_bic:0.699372 
+2022-08-14 03:09:27,403 - root - INFO - processed img-000002
+2022-08-14 03:09:27,404 - root - INFO - cost_time:17.455697 ms	psnr:25.859112 db	ssim:0.748283 	psnr_bic:23.940865 db	ssim_bic:0.699827 
+2022-08-14 03:09:30,191 - root - INFO - processed img-000003
+2022-08-14 03:09:30,191 - root - INFO - cost_time:17.140706 ms	psnr:25.876132 db	ssim:0.748571 	psnr_bic:23.953701 db	ssim_bic:0.700322 
+2022-08-14 03:09:32,823 - root - INFO - processed img-000004
+2022-08-14 03:09:32,824 - root - INFO - cost_time:16.996801 ms	psnr:25.867250 db	ssim:0.748422 	psnr_bic:23.952131 db	ssim_bic:0.700308 
+2022-08-14 03:09:35,518 - root - INFO - processed img-000005
+2022-08-14 03:09:35,519 - root - INFO - cost_time:17.250729 ms	psnr:25.851167 db	ssim:0.748212 	psnr_bic:23.943476 db	ssim_bic:0.700109 
+2022-08-14 03:09:38,220 - root - INFO - processed img-000006
+2022-08-14 03:09:38,221 - root - INFO - cost_time:17.110984 ms	psnr:25.838594 db	ssim:0.748066 	psnr_bic:23.934990 db	ssim_bic:0.699946 
+2022-08-14 03:09:41,031 - root - INFO - processed img-000007
+2022-08-14 03:09:41,032 - root - INFO - cost_time:17.049483 ms	psnr:25.828703 db	ssim:0.747925 	psnr_bic:23.927614 db	ssim_bic:0.699805 
+2022-08-14 03:09:43,567 - root - INFO - processed img-000008
+2022-08-14 03:09:43,567 - root - INFO - cost_time:16.984820 ms	psnr:25.823370 db	ssim:0.747834 	psnr_bic:23.924683 db	ssim_bic:0.699748 
+2022-08-14 03:09:46,155 - root - INFO - processed img-000009
+2022-08-14 03:09:46,155 - root - INFO - cost_time:16.930739 ms	psnr:25.826419 db	ssim:0.747899 	psnr_bic:23.926622 db	ssim_bic:0.699813 
+2022-08-14 03:09:48,791 - root - INFO - processed img-000010
+2022-08-14 03:09:48,791 - root - INFO - cost_time:16.901159 ms	psnr:25.834769 db	ssim:0.748054 	psnr_bic:23.931612 db	ssim_bic:0.699930 
+2022-08-15 00:27:15,717 - root - INFO - processed img-000001
+2022-08-15 00:27:15,718 - root - INFO - cost_time:16.699791 ms	psnr:25.847795 db	ssim:0.748017 	psnr_bic:23.929993 db	ssim_bic:0.699372 
+2022-08-15 00:27:16,534 - root - INFO - processed img-000002
+2022-08-15 00:27:16,535 - root - INFO - cost_time:16.689897 ms	psnr:25.859112 db	ssim:0.748283 	psnr_bic:23.940865 db	ssim_bic:0.699827 
+2022-08-15 00:27:17,316 - root - INFO - processed img-000003
+2022-08-15 00:27:17,317 - root - INFO - cost_time:16.694228 ms	psnr:25.876132 db	ssim:0.748571 	psnr_bic:23.953701 db	ssim_bic:0.700322 
+2022-08-15 00:27:18,129 - root - INFO - processed img-000004
+2022-08-15 00:27:18,130 - root - INFO - cost_time:16.663432 ms	psnr:25.867250 db	ssim:0.748422 	psnr_bic:23.952131 db	ssim_bic:0.700308 
+2022-08-15 00:27:19,029 - root - INFO - processed img-000005
+2022-08-15 00:27:19,029 - root - INFO - cost_time:26.861000 ms	psnr:25.851167 db	ssim:0.748212 	psnr_bic:23.943476 db	ssim_bic:0.700109 
+2022-08-15 00:27:19,929 - root - INFO - processed img-000006
+2022-08-15 00:27:19,929 - root - INFO - cost_time:33.330242 ms	psnr:25.838594 db	ssim:0.748066 	psnr_bic:23.934990 db	ssim_bic:0.699946 
+2022-08-15 00:27:35,088 - root - INFO - processed img-000001
+2022-08-15 00:27:35,089 - root - INFO - cost_time:16.291142 ms	psnr:25.847795 db	ssim:0.748017 	psnr_bic:23.929993 db	ssim_bic:0.699372 
+2022-08-15 00:27:38,279 - root - INFO - processed img-000002
+2022-08-15 00:27:38,279 - root - INFO - cost_time:16.849041 ms	psnr:25.859112 db	ssim:0.748283 	psnr_bic:23.940865 db	ssim_bic:0.699827 
+2022-08-15 00:27:41,396 - root - INFO - processed img-000003
+2022-08-15 00:27:41,397 - root - INFO - cost_time:26.164293 ms	psnr:25.876132 db	ssim:0.748571 	psnr_bic:23.953701 db	ssim_bic:0.700322 
+2022-08-15 00:27:44,477 - root - INFO - processed img-000004
+2022-08-15 00:27:44,478 - root - INFO - cost_time:23.782730 ms	psnr:25.867250 db	ssim:0.748422 	psnr_bic:23.952131 db	ssim_bic:0.700308 
+2022-08-15 00:27:47,620 - root - INFO - processed img-000005
+2022-08-15 00:27:47,621 - root - INFO - cost_time:22.369623 ms	psnr:25.851167 db	ssim:0.748212 	psnr_bic:23.943476 db	ssim_bic:0.700109 
+2022-08-15 09:07:45,817 - root - INFO - processed img-000001
+2022-08-15 09:07:47,716 - root - INFO - processed img-000002
+2022-08-15 09:07:49,671 - root - INFO - processed img-000003
+2022-08-15 09:07:51,557 - root - INFO - processed img-000004
+2022-08-15 09:07:53,349 - root - INFO - processed img-000005
+2022-08-15 09:07:55,157 - root - INFO - processed img-000006
+2022-08-15 09:14:29,684 - root - INFO - processed img-000001
+2022-08-15 09:14:31,623 - root - INFO - processed img-000002
+2022-08-15 09:14:33,731 - root - INFO - processed img-000003
+2022-08-15 09:14:35,767 - root - INFO - processed img-000004
+2022-08-15 09:14:37,948 - root - INFO - processed img-000005
+2022-08-15 09:14:40,070 - root - INFO - processed img-000006
+2022-08-15 09:14:42,108 - root - INFO - processed img-000007
+2022-08-15 09:14:44,201 - root - INFO - processed img-000008
+2022-08-15 09:14:46,138 - root - INFO - processed img-000009
+2022-08-15 09:14:48,286 - root - INFO - processed img-000010
+2022-08-15 09:14:50,220 - root - INFO - processed img-000011
+2022-08-15 09:14:52,118 - root - INFO - processed img-000012
+2022-08-15 09:14:54,028 - root - INFO - processed img-000013
+2022-08-15 09:14:56,086 - root - INFO - processed img-000014
+2022-08-15 09:14:58,286 - root - INFO - processed img-000015
+2022-08-15 09:15:00,322 - root - INFO - processed img-000016
+2022-08-15 09:15:02,277 - root - INFO - processed img-000017
+2022-08-15 09:15:04,235 - root - INFO - processed img-000018
+2022-08-15 09:15:06,205 - root - INFO - processed img-000019
+2022-08-15 09:15:08,139 - root - INFO - processed img-000020
+2022-08-15 09:15:10,162 - root - INFO - processed img-000021
+2022-08-15 09:15:12,144 - root - INFO - processed img-000022
+2022-08-15 09:15:14,025 - root - INFO - processed img-000023
+2022-08-15 09:15:15,995 - root - INFO - processed img-000024
+2022-08-15 09:15:17,919 - root - INFO - processed img-000025
+2022-08-15 09:15:19,982 - root - INFO - processed img-000026
+2022-08-15 09:15:21,971 - root - INFO - processed img-000027
+2022-08-15 09:15:23,980 - root - INFO - processed img-000028
+2022-08-15 09:15:26,031 - root - INFO - processed img-000029
+2022-08-15 09:15:27,982 - root - INFO - processed img-000030
+2022-08-15 09:15:29,893 - root - INFO - processed img-000031
+2022-08-15 09:15:31,939 - root - INFO - processed img-000032
+2022-08-15 09:15:33,978 - root - INFO - processed img-000033
+2022-08-15 09:15:35,916 - root - INFO - processed img-000034
+2022-08-15 09:15:37,966 - root - INFO - processed img-000035
+2022-08-15 09:15:39,956 - root - INFO - processed img-000036
+2022-08-15 09:15:42,094 - root - INFO - processed img-000037
+2022-08-15 09:15:44,122 - root - INFO - processed img-000038
+2022-08-15 09:15:46,005 - root - INFO - processed img-000039
+2022-08-15 09:15:47,925 - root - INFO - processed img-000040
+2022-08-15 09:15:49,943 - root - INFO - processed img-000041
+2022-08-15 09:15:51,896 - root - INFO - processed img-000042
+2022-08-15 09:15:53,871 - root - INFO - processed img-000043
+2022-08-15 09:15:55,835 - root - INFO - processed img-000044
+2022-08-15 09:15:57,831 - root - INFO - processed img-000045
+2022-08-15 09:15:59,816 - root - INFO - processed img-000046
+2022-08-15 09:16:01,698 - root - INFO - processed img-000047
+2022-08-15 09:16:03,691 - root - INFO - processed img-000048
+2022-08-15 09:16:05,583 - root - INFO - processed img-000049
+2022-08-15 09:16:07,510 - root - INFO - processed img-000050
+2022-08-15 09:16:09,408 - root - INFO - processed img-000051
+2022-08-15 09:16:11,370 - root - INFO - processed img-000052
+2022-08-15 09:16:13,359 - root - INFO - processed img-000053
+2022-08-15 09:16:15,400 - root - INFO - processed img-000054
+2022-08-15 09:16:17,369 - root - INFO - processed img-000055
+2022-08-15 09:16:19,415 - root - INFO - processed img-000056
+2022-08-15 09:16:21,357 - root - INFO - processed img-000057
+2022-08-15 09:16:23,483 - root - INFO - processed img-000058
+2022-08-15 09:16:25,516 - root - INFO - processed img-000059
+2022-08-15 09:16:27,503 - root - INFO - processed img-000060
+2022-08-15 09:16:29,680 - root - INFO - processed img-000061
+2022-08-15 09:16:31,841 - root - INFO - processed img-000062
+2022-08-15 09:16:33,819 - root - INFO - processed img-000063
+2022-08-15 09:16:35,896 - root - INFO - processed img-000064
+2022-08-15 09:16:37,932 - root - INFO - processed img-000065
+2022-08-15 09:16:40,088 - root - INFO - processed img-000066
+2022-08-15 09:16:42,009 - root - INFO - processed img-000067
+2022-08-15 09:16:44,178 - root - INFO - processed img-000068
+2022-08-15 09:16:46,165 - root - INFO - processed img-000069
+2022-08-15 09:16:48,335 - root - INFO - processed img-000070
+2022-08-15 09:16:50,327 - root - INFO - processed img-000071
+2022-08-15 09:16:52,311 - root - INFO - processed img-000072
+2022-08-15 09:16:54,333 - root - INFO - processed img-000073
+2022-08-15 09:16:56,319 - root - INFO - processed img-000074
+2022-08-15 09:16:58,400 - root - INFO - processed img-000075
+2022-08-15 09:17:00,460 - root - INFO - processed img-000076
+2022-08-15 09:17:02,430 - root - INFO - processed img-000077
+2022-08-15 09:17:04,391 - root - INFO - processed img-000078
+2022-08-15 09:17:06,396 - root - INFO - processed img-000079
+2022-08-15 09:17:08,493 - root - INFO - processed img-000080
+2022-08-15 09:17:10,579 - root - INFO - processed img-000081
+2022-08-15 09:17:12,566 - root - INFO - processed img-000082
+2022-08-15 09:17:14,711 - root - INFO - processed img-000083
+2022-08-15 09:17:16,660 - root - INFO - processed img-000084
+2022-08-15 09:17:18,765 - root - INFO - processed img-000085
+2022-08-15 09:17:20,773 - root - INFO - processed img-000086
+2022-08-15 09:17:22,744 - root - INFO - processed img-000087
+2022-08-15 09:17:24,708 - root - INFO - processed img-000088
+2022-08-15 09:17:26,744 - root - INFO - processed img-000089
+2022-08-15 09:17:28,831 - root - INFO - processed img-000090
+2022-08-15 09:17:30,781 - root - INFO - processed img-000091
+2022-08-15 09:17:32,984 - root - INFO - processed img-000092
+2022-08-15 09:17:35,045 - root - INFO - processed img-000093
+2022-08-15 09:17:37,095 - root - INFO - processed img-000094
+2022-08-15 09:17:39,041 - root - INFO - processed img-000095
+2022-08-15 09:17:41,125 - root - INFO - processed img-000096
+2022-08-15 09:17:43,011 - root - INFO - processed img-000097
+2022-08-15 09:17:45,015 - root - INFO - processed img-000098
+2022-08-15 09:17:47,070 - root - INFO - processed img-000099
+2022-08-15 09:17:49,030 - root - INFO - processed img-000100
+2022-08-15 09:17:50,969 - root - INFO - processed img-000101
+2022-08-15 09:17:53,022 - root - INFO - processed img-000102
+2022-08-15 09:17:55,071 - root - INFO - processed img-000103
+2022-08-15 09:17:57,241 - root - INFO - processed img-000104
+2022-08-15 09:17:59,223 - root - INFO - processed img-000105
+2022-08-15 09:18:01,189 - root - INFO - processed img-000106
+2022-08-15 09:18:03,151 - root - INFO - processed img-000107
+2022-08-15 09:18:05,066 - root - INFO - processed img-000108
+2022-08-15 09:18:07,114 - root - INFO - processed img-000109
+2022-08-15 09:18:09,114 - root - INFO - processed img-000110
+2022-08-15 09:18:11,102 - root - INFO - processed img-000111
+2022-08-15 09:18:13,121 - root - INFO - processed img-000112
+2022-08-15 09:18:15,172 - root - INFO - processed img-000113
+2022-08-15 09:18:17,152 - root - INFO - processed img-000114
+2022-08-15 09:18:19,124 - root - INFO - processed img-000115
+2022-08-15 09:18:21,050 - root - INFO - processed img-000116
+2022-08-15 09:18:23,067 - root - INFO - processed img-000117
+2022-08-15 09:18:25,033 - root - INFO - processed img-000118
+2022-08-15 09:18:27,342 - root - INFO - processed img-000119
+2022-08-15 09:18:29,321 - root - INFO - processed img-000120
+2022-08-15 09:18:31,276 - root - INFO - processed img-000121
+2022-08-15 09:18:33,211 - root - INFO - processed img-000122
+2022-08-15 09:18:35,147 - root - INFO - processed img-000123
+2022-08-15 09:18:37,176 - root - INFO - processed img-000124
+2022-08-15 09:18:39,177 - root - INFO - processed img-000125
+2022-08-15 09:18:41,154 - root - INFO - processed img-000126
+2022-08-15 09:18:43,304 - root - INFO - processed img-000127
+2022-08-15 09:18:45,232 - root - INFO - processed img-000128
+2022-08-15 09:18:47,158 - root - INFO - processed img-000129
+2022-08-15 09:18:49,287 - root - INFO - processed img-000130
+2022-08-15 09:18:51,338 - root - INFO - processed img-000131
+2022-08-15 09:18:53,644 - root - INFO - processed img-000132
+2022-08-15 09:18:55,596 - root - INFO - processed img-000133
+2022-08-15 09:18:57,775 - root - INFO - processed img-000134
+2022-08-15 09:18:59,746 - root - INFO - processed img-000135
+2022-08-15 09:19:01,669 - root - INFO - processed img-000136
+2022-08-15 09:19:03,683 - root - INFO - processed img-000137
+2022-08-15 09:19:05,606 - root - INFO - processed img-000138
+2022-08-15 09:19:07,738 - root - INFO - processed img-000139
+2022-08-15 09:19:09,967 - root - INFO - processed img-000140
+2022-08-15 09:19:11,968 - root - INFO - processed img-000141
+2022-08-15 09:19:14,092 - root - INFO - processed img-000142
+2022-08-15 09:19:16,041 - root - INFO - processed img-000143
+2022-08-15 09:19:17,964 - root - INFO - processed img-000144
+2022-08-15 09:19:19,962 - root - INFO - processed img-000145
+2022-08-15 09:19:22,057 - root - INFO - processed img-000146
+2022-08-15 09:19:24,156 - root - INFO - processed img-000147
+2022-08-15 09:19:26,119 - root - INFO - processed img-000148
+2022-08-15 09:19:27,965 - root - INFO - processed img-000149
+2022-08-15 09:19:29,919 - root - INFO - processed img-000150
+2022-08-15 09:19:32,012 - root - INFO - processed img-000151
+2022-08-15 09:19:34,164 - root - INFO - processed img-000152
+2022-08-15 09:19:36,217 - root - INFO - processed img-000153
+2022-08-15 09:19:38,228 - root - INFO - processed img-000154
+2022-08-15 09:19:40,161 - root - INFO - processed img-000155
+2022-08-15 09:19:42,254 - root - INFO - processed img-000156
+2022-08-15 09:19:44,297 - root - INFO - processed img-000157
+2022-08-15 09:19:46,328 - root - INFO - processed img-000158
+2022-08-15 09:19:48,279 - root - INFO - processed img-000159
+2022-08-15 09:19:50,359 - root - INFO - processed img-000160
+2022-08-15 09:19:52,391 - root - INFO - processed img-000161
+2022-08-15 09:19:54,268 - root - INFO - processed img-000162
+2022-08-15 09:19:56,262 - root - INFO - processed img-000163
+2022-08-15 09:19:58,400 - root - INFO - processed img-000164
+2022-08-15 09:20:00,338 - root - INFO - processed img-000165
+2022-08-15 09:20:02,276 - root - INFO - processed img-000166
+2022-08-15 09:20:04,328 - root - INFO - processed img-000167
+2022-08-15 09:20:06,254 - root - INFO - processed img-000168
+2022-08-15 09:20:08,234 - root - INFO - processed img-000169
+2022-08-15 09:20:10,029 - root - INFO - processed img-000170
+2022-08-15 09:20:12,143 - root - INFO - processed img-000171
+2022-08-15 09:20:14,226 - root - INFO - processed img-000172
+2022-08-15 09:20:16,259 - root - INFO - processed img-000173
+2022-08-15 09:20:18,318 - root - INFO - processed img-000174
+2022-08-15 09:20:20,319 - root - INFO - processed img-000175
+2022-08-15 09:20:22,608 - root - INFO - processed img-000176
+2022-08-15 09:20:24,695 - root - INFO - processed img-000177
+2022-08-15 09:20:26,772 - root - INFO - processed img-000178
+2022-08-15 09:20:28,675 - root - INFO - processed img-000179
+2022-08-15 09:20:30,669 - root - INFO - processed img-000180
+2022-08-15 09:20:32,788 - root - INFO - processed img-000181
+2022-08-15 09:20:34,802 - root - INFO - processed img-000182
+2022-08-15 09:20:36,788 - root - INFO - processed img-000183
+2022-08-15 09:20:38,803 - root - INFO - processed img-000184
+2022-08-15 09:20:40,738 - root - INFO - processed img-000185
+2022-08-15 09:20:42,779 - root - INFO - processed img-000186
+2022-08-15 09:20:44,794 - root - INFO - processed img-000187
+2022-08-15 09:20:46,843 - root - INFO - processed img-000188
+2022-08-15 09:20:48,921 - root - INFO - processed img-000189
+2022-08-15 09:20:50,984 - root - INFO - processed img-000190
+2022-08-15 09:20:53,081 - root - INFO - processed img-000191
+2022-08-15 09:20:55,279 - root - INFO - processed img-000192
+2022-08-15 09:20:57,352 - root - INFO - processed img-000193
+2022-08-15 09:20:59,425 - root - INFO - processed img-000194
+2022-08-15 09:21:01,443 - root - INFO - processed img-000195
+2022-08-15 09:21:03,395 - root - INFO - processed img-000196
+2022-08-15 09:21:05,419 - root - INFO - processed img-000197
+2022-08-15 09:21:07,509 - root - INFO - processed img-000198
+2022-08-15 09:21:09,470 - root - INFO - processed img-000199
+2022-08-15 09:21:11,584 - root - INFO - processed img-000200
+2022-08-15 09:21:13,676 - root - INFO - processed img-000201
+2022-08-15 09:21:15,615 - root - INFO - processed img-000202
+2022-08-15 09:21:17,645 - root - INFO - processed img-000203
+2022-08-15 09:21:19,727 - root - INFO - processed img-000204
+2022-08-15 09:21:21,746 - root - INFO - processed img-000205
+2022-08-15 09:21:23,729 - root - INFO - processed img-000206
+2022-08-15 09:21:25,792 - root - INFO - processed img-000207
+2022-08-15 09:21:27,731 - root - INFO - processed img-000208
+2022-08-15 09:21:29,804 - root - INFO - processed img-000209
+2022-08-15 09:21:31,856 - root - INFO - processed img-000210
+2022-08-15 09:21:33,947 - root - INFO - processed img-000211
+2022-08-15 09:21:35,908 - root - INFO - processed img-000212
+2022-08-15 09:21:37,950 - root - INFO - processed img-000213
+2022-08-15 09:21:40,019 - root - INFO - processed img-000214
+2022-08-15 09:21:41,967 - root - INFO - processed img-000215
+2022-08-15 09:21:44,004 - root - INFO - processed img-000216
+2022-08-15 09:21:46,182 - root - INFO - processed img-000217
+2022-08-15 09:21:48,143 - root - INFO - processed img-000218
+2022-08-15 09:21:50,150 - root - INFO - processed img-000219
+2022-08-15 09:21:52,090 - root - INFO - processed img-000220
+2022-08-15 09:21:54,175 - root - INFO - processed img-000221
+2022-08-15 09:21:56,129 - root - INFO - processed img-000222
+2022-08-15 09:21:58,236 - root - INFO - processed img-000223
+2022-08-15 09:22:00,328 - root - INFO - processed img-000224
+2022-08-15 09:22:02,357 - root - INFO - processed img-000225
+2022-08-15 09:22:04,401 - root - INFO - processed img-000226
+2022-08-15 09:22:06,433 - root - INFO - processed img-000227
+2022-08-15 09:22:08,643 - root - INFO - processed img-000228
+2022-08-15 09:22:10,670 - root - INFO - processed img-000229
+2022-08-15 09:22:12,770 - root - INFO - processed img-000230
+2022-08-15 09:22:14,736 - root - INFO - processed img-000231
+2022-08-15 09:22:16,927 - root - INFO - processed img-000232
+2022-08-15 09:22:19,048 - root - INFO - processed img-000233
+2022-08-15 09:22:21,134 - root - INFO - processed img-000234
+2022-08-15 09:22:23,224 - root - INFO - processed img-000235
+2022-08-15 09:22:25,358 - root - INFO - processed img-000236
+2022-08-15 09:22:27,345 - root - INFO - processed img-000237
+2022-08-15 09:22:29,402 - root - INFO - processed img-000238
+2022-08-15 09:22:31,379 - root - INFO - processed img-000239
+2022-08-15 09:22:33,356 - root - INFO - processed img-000240
+2022-08-15 09:22:35,301 - root - INFO - processed img-000241
+2022-08-15 09:22:37,361 - root - INFO - processed img-000242
+2022-08-15 09:22:39,304 - root - INFO - processed img-000243
+2022-08-15 09:22:41,290 - root - INFO - processed img-000244
+2022-08-15 09:22:43,328 - root - INFO - processed img-000245
+2022-08-15 09:22:45,390 - root - INFO - processed img-000246
+2022-08-15 09:22:47,370 - root - INFO - processed img-000247
+2022-08-15 09:22:49,326 - root - INFO - processed img-000248
+2022-08-15 09:22:51,365 - root - INFO - processed img-000249
+2022-08-15 09:22:53,399 - root - INFO - processed img-000250
+2022-08-15 09:22:55,393 - root - INFO - processed img-000251
+2022-08-15 09:22:57,315 - root - INFO - processed img-000252
+2022-08-15 09:22:59,328 - root - INFO - processed img-000253
+2022-08-15 09:23:01,322 - root - INFO - processed img-000254
+2022-08-15 09:23:03,264 - root - INFO - processed img-000255
+2022-08-15 09:23:05,185 - root - INFO - processed img-000256
+2022-08-15 09:23:06,935 - root - INFO - processed img-000257
+2022-08-15 09:23:08,856 - root - INFO - processed img-000258
+2022-08-15 09:23:10,864 - root - INFO - processed img-000259
+2022-08-15 09:23:12,901 - root - INFO - processed img-000260
+2022-08-15 09:23:14,754 - root - INFO - processed img-000261
+2022-08-15 09:23:16,564 - root - INFO - processed img-000262
+2022-08-15 09:23:18,463 - root - INFO - processed img-000263
+2022-08-15 09:23:20,243 - root - INFO - processed img-000264
+2022-08-15 09:23:22,202 - root - INFO - processed img-000265
+2022-08-15 09:23:24,047 - root - INFO - processed img-000266
+2022-08-15 09:23:25,913 - root - INFO - processed img-000267
+2022-08-15 09:23:27,806 - root - INFO - processed img-000268
+2022-08-15 09:23:29,743 - root - INFO - processed img-000269
+2022-08-15 09:23:31,609 - root - INFO - processed img-000270
+2022-08-15 09:23:33,491 - root - INFO - processed img-000271
+2022-08-15 09:23:35,376 - root - INFO - processed img-000272
+2022-08-15 09:23:37,359 - root - INFO - processed img-000273
+2022-08-15 09:23:39,354 - root - INFO - processed img-000274
+2022-08-15 09:23:41,331 - root - INFO - processed img-000275
+2022-08-15 09:23:43,267 - root - INFO - processed img-000276
+2022-08-15 09:23:45,241 - root - INFO - processed img-000277
+2022-08-15 09:23:47,206 - root - INFO - processed img-000278
+2022-08-15 09:23:49,044 - root - INFO - processed img-000279
+2022-08-15 09:23:51,273 - root - INFO - processed img-000280
+2022-08-15 09:23:53,311 - root - INFO - processed img-000281
+2022-08-15 09:23:55,318 - root - INFO - processed img-000282
+2022-08-15 09:23:57,252 - root - INFO - processed img-000283
+2022-08-15 09:23:59,315 - root - INFO - processed img-000284
+2022-08-15 09:24:01,438 - root - INFO - processed img-000285
+2022-08-15 09:24:03,632 - root - INFO - processed img-000286
+2022-08-15 09:24:05,579 - root - INFO - processed img-000287
+2022-08-15 09:24:07,495 - root - INFO - processed img-000288
+2022-08-15 09:24:09,385 - root - INFO - processed img-000289
+2022-08-15 09:24:11,570 - root - INFO - processed img-000290
+2022-08-15 09:24:13,557 - root - INFO - processed img-000291
+2022-08-15 09:24:15,442 - root - INFO - processed img-000292
+2022-08-15 09:24:17,583 - root - INFO - processed img-000293
+2022-08-15 09:24:19,646 - root - INFO - processed img-000294
+2022-08-15 09:24:21,733 - root - INFO - processed img-000295
+2022-08-15 09:24:23,681 - root - INFO - processed img-000296
+2022-08-15 09:24:25,683 - root - INFO - processed img-000297
+2022-08-15 09:24:27,709 - root - INFO - processed img-000298
+2022-08-15 09:24:29,698 - root - INFO - processed img-000299
+2022-08-15 09:24:31,891 - root - INFO - processed img-000300
+2022-08-15 09:24:34,002 - root - INFO - processed img-000301
+2022-08-15 09:24:35,964 - root - INFO - processed img-000302
+2022-08-15 09:24:38,038 - root - INFO - processed img-000303
+2022-08-15 09:24:39,947 - root - INFO - processed img-000304
+2022-08-15 09:24:42,072 - root - INFO - processed img-000305
+2022-08-15 09:24:44,109 - root - INFO - processed img-000306
+2022-08-15 09:24:46,078 - root - INFO - processed img-000307
+2022-08-15 09:24:48,063 - root - INFO - processed img-000308
+2022-08-15 09:24:50,002 - root - INFO - processed img-000309
+2022-08-15 09:24:52,023 - root - INFO - processed img-000310
+2022-08-15 09:24:54,078 - root - INFO - processed img-000311
+2022-08-15 09:24:56,287 - root - INFO - processed img-000312
+2022-08-15 09:24:58,287 - root - INFO - processed img-000313
+2022-08-15 09:25:00,311 - root - INFO - processed img-000314
+2022-08-15 09:25:02,376 - root - INFO - processed img-000315
+2022-08-15 09:25:04,329 - root - INFO - processed img-000316
+2022-08-15 09:25:06,556 - root - INFO - processed img-000317
+2022-08-15 09:25:08,570 - root - INFO - processed img-000318
+2022-08-15 09:25:10,504 - root - INFO - processed img-000319
+2022-08-15 09:25:12,528 - root - INFO - processed img-000320
+2022-08-15 09:25:14,557 - root - INFO - processed img-000321
+2022-08-15 09:25:16,672 - root - INFO - processed img-000322
+2022-08-15 09:25:18,668 - root - INFO - processed img-000323
+2022-08-15 09:25:20,690 - root - INFO - processed img-000324
+2022-08-15 09:25:22,744 - root - INFO - processed img-000325
+2022-08-15 09:25:24,846 - root - INFO - processed img-000326
+2022-08-15 09:25:26,896 - root - INFO - processed img-000327
+2022-08-15 09:25:28,894 - root - INFO - processed img-000328
+2022-08-15 09:25:30,962 - root - INFO - processed img-000329
+2022-08-15 09:25:32,996 - root - INFO - processed img-000330
+2022-08-15 09:25:35,174 - root - INFO - processed img-000331
+2022-08-15 09:25:37,347 - root - INFO - processed img-000332
+2022-08-15 09:25:39,341 - root - INFO - processed img-000333
+2022-08-15 09:25:41,431 - root - INFO - processed img-000334
+2022-08-15 09:25:43,434 - root - INFO - processed img-000335
+2022-08-15 09:25:45,469 - root - INFO - processed img-000336
+2022-08-15 09:25:47,437 - root - INFO - processed img-000337
+2022-08-15 09:25:49,413 - root - INFO - processed img-000338
+2022-08-15 09:25:51,336 - root - INFO - processed img-000339
+2022-08-15 09:25:53,227 - root - INFO - processed img-000340
+2022-08-15 09:25:55,330 - root - INFO - processed img-000341
+2022-08-15 09:25:57,375 - root - INFO - processed img-000342
+2022-08-15 09:25:59,389 - root - INFO - processed img-000343
+2022-08-15 09:26:01,399 - root - INFO - processed img-000344
+2022-08-15 09:26:03,303 - root - INFO - processed img-000345
+2022-08-15 09:26:05,242 - root - INFO - processed img-000346
+2022-08-15 09:26:07,310 - root - INFO - processed img-000347
+2022-08-15 09:26:09,385 - root - INFO - processed img-000348
+2022-08-15 09:26:11,274 - root - INFO - processed img-000349
+2022-08-15 09:26:13,373 - root - INFO - processed img-000350
+2022-08-15 09:26:15,365 - root - INFO - processed img-000351
+2022-08-15 09:26:17,430 - root - INFO - processed img-000352
+2022-08-15 09:26:19,391 - root - INFO - processed img-000353
+2022-08-15 09:26:21,539 - root - INFO - processed img-000354
+2022-08-15 09:26:23,766 - root - INFO - processed img-000355
+2022-08-15 09:26:25,775 - root - INFO - processed img-000356
+2022-08-15 09:26:27,943 - root - INFO - processed img-000357
+2022-08-15 09:26:29,973 - root - INFO - processed img-000358
+2022-08-15 09:26:32,012 - root - INFO - processed img-000359
+2022-08-15 09:26:34,023 - root - INFO - processed img-000360
+2022-08-15 09:26:36,035 - root - INFO - processed img-000361
+2022-08-15 09:26:38,021 - root - INFO - processed img-000362
+2022-08-15 09:26:40,146 - root - INFO - processed img-000363
+2022-08-15 09:26:42,135 - root - INFO - processed img-000364
+2022-08-15 09:26:44,043 - root - INFO - processed img-000365
+2022-08-15 09:26:45,977 - root - INFO - processed img-000366
+2022-08-15 09:26:48,031 - root - INFO - processed img-000367
+2022-08-15 09:26:49,911 - root - INFO - processed img-000368
+2022-08-15 09:26:51,792 - root - INFO - processed img-000369
+2022-08-15 09:26:53,745 - root - INFO - processed img-000370
+2022-08-15 09:26:55,825 - root - INFO - processed img-000371
+2022-08-15 09:26:57,842 - root - INFO - processed img-000372
+2022-08-15 09:26:59,889 - root - INFO - processed img-000373
+2022-08-15 09:27:01,804 - root - INFO - processed img-000374
+2022-08-15 09:27:03,809 - root - INFO - processed img-000375
+2022-08-15 09:27:05,803 - root - INFO - processed img-000376
+2022-08-15 09:27:07,736 - root - INFO - processed img-000377
+2022-08-15 09:27:09,766 - root - INFO - processed img-000378
+2022-08-15 09:27:11,837 - root - INFO - processed img-000379
+2022-08-15 09:27:13,778 - root - INFO - processed img-000380
+2022-08-15 09:27:15,895 - root - INFO - processed img-000381
+2022-08-15 09:27:17,856 - root - INFO - processed img-000382
+2022-08-15 09:27:20,039 - root - INFO - processed img-000383
+2022-08-15 09:27:22,115 - root - INFO - processed img-000384
+2022-08-15 09:27:24,105 - root - INFO - processed img-000385
+2022-08-15 09:27:26,180 - root - INFO - processed img-000386
+2022-08-15 09:27:28,210 - root - INFO - processed img-000387
+2022-08-15 09:27:30,269 - root - INFO - processed img-000388
+2022-08-15 09:27:32,253 - root - INFO - processed img-000389
+2022-08-15 09:27:34,324 - root - INFO - processed img-000390
+2022-08-15 09:27:36,460 - root - INFO - processed img-000391
+2022-08-15 09:27:38,357 - root - INFO - processed img-000392
+2022-08-15 09:27:40,273 - root - INFO - processed img-000393
+2022-08-15 09:27:42,371 - root - INFO - processed img-000394
+2022-08-15 09:27:44,308 - root - INFO - processed img-000395
+2022-08-15 09:27:46,197 - root - INFO - processed img-000396
+2022-08-15 09:27:48,240 - root - INFO - processed img-000397
+2022-08-15 09:27:50,282 - root - INFO - processed img-000398
+2022-08-15 09:27:52,175 - root - INFO - processed img-000399
+2022-08-15 09:27:54,128 - root - INFO - processed img-000400
+2022-08-15 09:27:56,089 - root - INFO - processed img-000401
+2022-08-15 09:27:58,186 - root - INFO - processed img-000402
+2022-08-15 09:28:00,290 - root - INFO - processed img-000403
+2022-08-15 09:28:02,327 - root - INFO - processed img-000404
+2022-08-15 09:28:04,488 - root - INFO - processed img-000405
+2022-08-15 09:28:06,562 - root - INFO - processed img-000406
+2022-08-15 09:28:08,494 - root - INFO - processed img-000407
+2022-08-15 09:28:10,614 - root - INFO - processed img-000408
+2022-08-15 09:28:12,766 - root - INFO - processed img-000409
+2022-08-15 09:28:14,813 - root - INFO - processed img-000410
+2022-08-15 09:28:16,771 - root - INFO - processed img-000411
+2022-08-15 09:28:18,547 - root - INFO - processed img-000412
+2022-08-15 09:28:20,551 - root - INFO - processed img-000413
+2022-08-15 09:28:22,509 - root - INFO - processed img-000414
+2022-08-15 09:28:24,634 - root - INFO - processed img-000415
+2022-08-15 09:28:26,818 - root - INFO - processed img-000416
+2022-08-15 09:28:28,945 - root - INFO - processed img-000417
+2022-08-15 09:28:30,864 - root - INFO - processed img-000418
+2022-08-15 09:28:32,921 - root - INFO - processed img-000419
+2022-08-15 09:28:35,100 - root - INFO - processed img-000420
+2022-08-15 09:28:37,050 - root - INFO - processed img-000421
+2022-08-15 09:28:39,066 - root - INFO - processed img-000422
+2022-08-15 09:28:41,037 - root - INFO - processed img-000423
+2022-08-15 09:28:43,043 - root - INFO - processed img-000424
+2022-08-15 09:28:45,172 - root - INFO - processed img-000425
+2022-08-15 09:28:47,098 - root - INFO - processed img-000426
+2022-08-15 09:28:49,160 - root - INFO - processed img-000427
+2022-08-15 09:28:51,015 - root - INFO - processed img-000428
+2022-08-15 09:28:53,138 - root - INFO - processed img-000429
+2022-08-15 09:28:55,080 - root - INFO - processed img-000430
+2022-08-15 09:28:57,214 - root - INFO - processed img-000431
+2022-08-15 09:28:59,379 - root - INFO - processed img-000432
+2022-08-15 09:29:01,432 - root - INFO - processed img-000433
+2022-08-15 09:29:03,355 - root - INFO - processed img-000434
+2022-08-15 09:29:05,389 - root - INFO - processed img-000435
+2022-08-15 09:29:07,390 - root - INFO - processed img-000436
+2022-08-15 09:29:09,390 - root - INFO - processed img-000437
+2022-08-15 09:29:11,363 - root - INFO - processed img-000438
+2022-08-15 09:29:13,401 - root - INFO - processed img-000439
+2022-08-15 09:29:15,324 - root - INFO - processed img-000440
+2022-08-15 09:29:17,319 - root - INFO - processed img-000441
+2022-08-15 09:29:19,259 - root - INFO - processed img-000442
+2022-08-15 09:29:21,282 - root - INFO - processed img-000443
+2022-08-15 09:29:23,236 - root - INFO - processed img-000444
+2022-08-15 09:29:25,421 - root - INFO - processed img-000445
+2022-08-15 09:29:27,413 - root - INFO - processed img-000446
+2022-08-15 09:29:29,391 - root - INFO - processed img-000447
+2022-08-15 09:29:31,489 - root - INFO - processed img-000448
+2022-08-15 09:29:33,553 - root - INFO - processed img-000449
+2022-08-15 09:29:35,693 - root - INFO - processed img-000450
+2022-08-15 09:29:37,872 - root - INFO - processed img-000451
+2022-08-15 09:29:39,833 - root - INFO - processed img-000452
+2022-08-15 09:29:41,958 - root - INFO - processed img-000453
+2022-08-15 09:29:43,843 - root - INFO - processed img-000454
+2022-08-15 09:29:45,934 - root - INFO - processed img-000455
+2022-08-15 09:29:47,977 - root - INFO - processed img-000456
+2022-08-15 09:29:49,961 - root - INFO - processed img-000457
+2022-08-15 09:29:51,917 - root - INFO - processed img-000458
+2022-08-15 09:29:53,855 - root - INFO - processed img-000459
+2022-08-15 09:29:55,888 - root - INFO - processed img-000460
+2022-08-15 09:29:57,917 - root - INFO - processed img-000461
+2022-08-15 09:30:00,106 - root - INFO - processed img-000462
+2022-08-15 09:30:02,233 - root - INFO - processed img-000463
+2022-08-15 09:30:04,214 - root - INFO - processed img-000464
+2022-08-15 09:30:06,287 - root - INFO - processed img-000465
+2022-08-15 09:30:08,317 - root - INFO - processed img-000466
+2022-08-15 09:30:10,381 - root - INFO - processed img-000467
+2022-08-15 09:30:12,440 - root - INFO - processed img-000468
+2022-08-15 09:30:14,375 - root - INFO - processed img-000469
+2022-08-15 09:30:16,377 - root - INFO - processed img-000470
+2022-08-15 09:30:18,522 - root - INFO - processed img-000471
+2022-08-15 09:30:20,505 - root - INFO - processed img-000472
+2022-08-15 09:30:22,610 - root - INFO - processed img-000473
+2022-08-15 09:30:24,636 - root - INFO - processed img-000474
+2022-08-15 09:30:26,522 - root - INFO - processed img-000475
+2022-08-15 09:30:28,509 - root - INFO - processed img-000476
+2022-08-15 09:30:30,556 - root - INFO - processed img-000477
+2022-08-15 09:30:32,437 - root - INFO - processed img-000478
+2022-08-15 09:30:34,458 - root - INFO - processed img-000479
+2022-08-15 09:30:36,471 - root - INFO - processed img-000480
+2022-08-15 09:30:38,534 - root - INFO - processed img-000481
+2022-08-15 09:30:40,415 - root - INFO - processed img-000482
+2022-08-15 09:30:42,358 - root - INFO - processed img-000483
+2022-08-15 09:30:44,382 - root - INFO - processed img-000484
+2022-08-15 09:30:46,518 - root - INFO - processed img-000485
+2022-08-15 09:30:48,435 - root - INFO - processed img-000486
+2022-08-15 09:30:50,532 - root - INFO - processed img-000487
+2022-08-15 09:30:52,491 - root - INFO - processed img-000488
+2022-08-15 09:30:54,442 - root - INFO - processed img-000489
+2022-08-15 09:30:56,434 - root - INFO - processed img-000490
+2022-08-15 09:30:58,512 - root - INFO - processed img-000491
+2022-08-15 09:31:00,644 - root - INFO - processed img-000492
+2022-08-15 09:31:02,731 - root - INFO - processed img-000493
+2022-08-15 09:31:04,799 - root - INFO - processed img-000494
+2022-08-15 09:31:06,828 - root - INFO - processed img-000495
+2022-08-15 09:31:08,951 - root - INFO - processed img-000496
+2022-08-15 09:31:11,149 - root - INFO - processed img-000497
+2022-08-15 09:31:13,081 - root - INFO - processed img-000498
+2022-08-15 09:31:15,186 - root - INFO - processed img-000499
+2022-08-15 09:31:17,279 - root - INFO - processed img-000500
+2022-08-15 09:31:17,280 - root - INFO - #########################
+2022-08-15 09:31:17,280 - root - INFO - cost_time:58.350797ms	parameters:14.800000K	psnr:32.897729db	ssim:0.899377	psnr_bic:30.857479db	ssim_bic:0.859647 
+2022-08-15 09:31:17,280 - root - INFO - #########################
